@@ -1,0 +1,17 @@
+name: data-environment
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - fiona
+    - rasterio
+    - cartopy
+    - h5py
+    - matplotlib
+    - obspy
+    - numpy
+    - openpyxl
+    - xlrd
+    - pandas
+    - scipy
+    - jupyter

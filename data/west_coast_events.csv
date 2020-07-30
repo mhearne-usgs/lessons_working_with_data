@@ -1,0 +1,19 @@
+id,time,location,latitude,longitude,depth,magnitude,alert,url,eventtype,significance
+iscgem911811,1922-01-31 13:17:31.000,off the coast of Northern California,41.115,-125.54,15.0,7.3,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911811,earthquake,820
+iscgem908101,1929-05-26 22:40:08.000,"Haida Gwaii Region, Canada",51.0,-130.713,15.0,7.3,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908101,earthquake,820
+ushis1554,1946-06-23 17:13:19.000,"Vancouver Island, Canada region",49.76,-125.34,30.0,7.3,,https://earthquake.usgs.gov/earthquakes/eventpage/ushis1554,earthquake,820
+official19490822040118000_10,1949-08-22 04:01:18.000,"Haida Gwaii, Canada",53.673,-133.015,10.0,8.0,,https://earthquake.usgs.gov/earthquakes/eventpage/official19490822040118000_10,earthquake,985
+ci3319401,1952-07-21 11:52:14.540,"6km WNW of Grapevine, CA",34.9581667,-118.998,6.0,7.5,,https://earthquake.usgs.gov/earthquakes/eventpage/ci3319401,earthquake,964
+ushis1985,1954-12-16 11:07:11.000,Nevada,39.283,-118.117,15.0,7.26,,https://earthquake.usgs.gov/earthquakes/eventpage/ushis1985,earthquake,811
+iscgem794827,1970-06-24 13:09:13.000,"Haida Gwaii Region, Canada",51.692,-131.055,18.3,7.4,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem794827,earthquake,842
+usp0001aq1,1980-11-08 10:27:34.000,offshore Northern California,41.117,-124.253,19.0,7.2,,https://earthquake.usgs.gov/earthquakes/eventpage/usp0001aq1,earthquake,798
+nc228064,1991-08-17 22:17:09.970,"136km WSW of Brookings, Oregon",41.679,-125.856,1.303,7.0,,https://earthquake.usgs.gov/earthquakes/eventpage/nc228064,earthquake,754
+nc269151,1992-04-25 18:06:05.180,"20km SSW of Rio Dell, California",40.3353333,-124.2286667,9.856,7.2,,https://earthquake.usgs.gov/earthquakes/eventpage/nc269151,earthquake,892
+ci3031111,1992-06-28 11:57:34.130,"Landers, California Earthquake",34.2,-116.437,-0.097,7.3,,https://earthquake.usgs.gov/earthquakes/eventpage/ci3031111,earthquake,1443
+nc30056327,1994-09-01 15:15:48.310,off the coast of Northern California,40.4055,-126.3028333,4.972,7.0,,https://earthquake.usgs.gov/earthquakes/eventpage/nc30056327,earthquake,754
+ci9108652,1999-10-16 09:46:44.460,"16km SW of Ludlow, CA",34.6033333,-116.265,13.73,7.1,,https://earthquake.usgs.gov/earthquakes/eventpage/ci9108652,earthquake,1576
+usp000dt25,2005-06-15 02:50:54.190,off the coast of Northern California,41.292,-125.953,16.0,7.2,,https://earthquake.usgs.gov/earthquakes/eventpage/usp000dt25,earthquake,1298
+ci14607652,2010-04-04 22:40:42.360,"12km SW of Delta, B.C., MX",32.2861667,-115.2953333,9.987,7.2,red,https://earthquake.usgs.gov/earthquakes/eventpage/ci14607652,earthquake,2910
+usp000juhz,2012-10-28 03:04:08.820,"Haida Gwaii, Canada",52.788,-132.101,14.0,7.8,,https://earthquake.usgs.gov/earthquakes/eventpage/usp000juhz,earthquake,1726
+ak0138esnzr,2013-01-05 08:58:14.957,Southeastern Alaska,55.228,-134.8591,8.7,7.5,,https://earthquake.usgs.gov/earthquakes/eventpage/ak0138esnzr,earthquake,1425
+ci38457511,2019-07-06 03:19:53.040,2019 Ridgecrest Earthquake Sequence,35.7695,-117.5993333,8.0,7.1,yellow,https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511,earthquake,1596
