@@ -7,6 +7,7 @@ dependencies:
     - rasterio
     - cartopy
     - h5py
+    - libcomcat
     - matplotlib
     - obspy
     - numpy
